@@ -1,3 +1,6 @@
 [submodule "glorialan.com-frontend"]
 	path = glorialan.com-frontend
 	url = git@github.com:jwwang2003/glorialan.com-frontend.git
+[submodule "glorialan.com-backend"]
+	path = glorialan.com-backend
+	url = git@github.com:jwwang2003/glorialan.com-backend.git
